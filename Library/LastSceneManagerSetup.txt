@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/PlayStation4V2.unity
+  isLoaded: 1
+  isActive: 1
